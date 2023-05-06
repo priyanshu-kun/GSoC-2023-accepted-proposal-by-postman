@@ -1,1 +1,1 @@
-# GSoC 2023 accepted proposal by @postman
+# GSoC 2023 accepted proposal by @Postman org
